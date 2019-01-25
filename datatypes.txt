@@ -1,8 +1,8 @@
-# example of a variable in ruby
+example of 2 variables in ruby=
 name = "jocke"
 number = 1
 
-# different data types in ruby
+different data types in ruby=
 Strings
 Variables
 Numbers

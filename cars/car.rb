@@ -1,3 +1,3 @@
-class Cars
-    
+class Car
+    def initialize()
 end
