@@ -9,3 +9,12 @@ Numbers
 Booleans
 Arrays
 Hashes
+
+How to init rspec
+First we need to make a Gemfile and add the dependencies 
+source 'https://rubygems.org'
+gem 'rspec'
+
+then run bundle install and rspec --init.
+
+We always set up the test enviroment before we code since we work in a test driven eviroment.
